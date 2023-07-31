@@ -35,21 +35,33 @@ As the Project Manager, I am proud to have led a talented and cohesive QA team. 
 
 As the QA Manager for the QA Test Plans and Bug Tracking project at TechFusion Solutions, I played a pivotal role in ensuring the highest standards of software quality and usability. My focus was on developing a strong and efficient QA process, collaborating closely with the QA team and the development team. Throughout the project, I fulfilled the following key responsibilities:
 💡 Manual and Automation Testing on Web based applications
+
 💡 Experience in testing ( Manual + Automation) iphone android applications
+
 💡 Efficient in Smoke Testing, Black-box-testing, Regression-testing, Functional-testing, Usability-testing, Database-testing, User acceptance-testing,Load Testing,Security Testing, Cross-browser Testing
+
 💡 Checking compliance with requirements, finding defects, logging and tracking them, performing validations of fixes and regressions, logging enhancements, creating documents/tools to improve the testing processes, reviewing
+
 💡 Expertise in all stages in testing SDLC (i.e,Scheduling, Test design which includes test case design, test execution, test reporting by using test summary report then analysis of the found defects).
 
 🌟 Duties: 🌟
 
 💡 Testing software to identify and resolve problems from a end users perspective.
+
 💡 In charge of testing developed software against specified requirements.
+
 💡 Accurately monitoring and recording results in test documentation.
+
 💡 Preparing detailed test plans, acceptance criteria and test scenarios for each project.
+
 💡 Liaising with developers and programmers to swiftly resolve faults.
+
 Analysing, writing reports & communicating results to colleagues & managers.
+
 💡 Monitoring the testing process and identifying and logging test failures.
+
 💡 Performing peer reviews and estimates.
+
 💡 Testing full product suite's, identifying problems & resolving them with the development team
 
 ### 1. **Test Strategy and Planning**
